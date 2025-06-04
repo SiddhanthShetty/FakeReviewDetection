@@ -1,0 +1,8 @@
+mlruns/
+*.pyc
+__pycache__/
+.DS_Store
+.env
+data/FinalMergedDataset.csv
+data/CombinedPreProcessedDataset.csv
+data/UndersampledDataset.csv
